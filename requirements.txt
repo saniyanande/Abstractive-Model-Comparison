@@ -1,0 +1,6 @@
+streamlit
+nltk 
+rouge
+pipeline
+transformers
+torch
