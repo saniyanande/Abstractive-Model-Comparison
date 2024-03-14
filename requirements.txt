@@ -4,3 +4,4 @@ rouge
 pipeline
 transformers
 torch
+matplotlib
