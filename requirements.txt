@@ -5,3 +5,4 @@ pipeline
 transformers
 torch
 matplotlib
+sklearn
